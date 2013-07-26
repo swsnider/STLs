@@ -1,0 +1,170 @@
+solid csg
+facet normal -1 0 0
+outer loop
+vertex 15 -5 0
+vertex 15 -5 10
+vertex 15 5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 15 -5 0
+vertex 15 5 10
+vertex 15 5 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 25 -5 0
+vertex 25 5 0
+vertex 25 5 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 25 -5 0
+vertex 25 5 10
+vertex 25 -5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 15 -5 0
+vertex 25 -5 0
+vertex 25 -5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 15 -5 0
+vertex 25 -5 10
+vertex 15 -5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 15 5 0
+vertex 15 5 10
+vertex 25 5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 15 5 0
+vertex 25 5 10
+vertex 25 5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 15 -5 0
+vertex 15 5 0
+vertex 25 5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 15 -5 0
+vertex 25 5 0
+vertex 25 -5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 15 -5 10
+vertex 25 -5 10
+vertex 25 5 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 15 -5 10
+vertex 25 5 10
+vertex 15 5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -5 -5 0
+vertex -5 -5 10
+vertex -5 5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -5 -5 0
+vertex -5 5 10
+vertex -5 5 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 5 -5 0
+vertex 5 5 0
+vertex 5 5 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 5 -5 0
+vertex 5 5 10
+vertex 5 -5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -5 -5 0
+vertex 5 -5 0
+vertex 5 -5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -5 -5 0
+vertex 5 -5 10
+vertex -5 -5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -5 5 0
+vertex -5 5 10
+vertex 5 5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -5 5 0
+vertex 5 5 10
+vertex 5 5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -5 -5 0
+vertex -5 5 0
+vertex 5 5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -5 -5 0
+vertex 5 5 0
+vertex 5 -5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -5 -5 10
+vertex 5 -5 10
+vertex 5 5 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -5 -5 10
+vertex 5 5 10
+vertex -5 5 10
+endloop
+endfacet
+endsolid csg.js
